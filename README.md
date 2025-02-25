@@ -1,6 +1,4 @@
----
-title: "MVC Framework - Clone of The Codeholic's Project"
----
+
 
 # **MVC Framework - Clone of The Codeholic's Project**  
 
